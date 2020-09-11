@@ -7,7 +7,7 @@
 
 🔭Atualmente estou Procurando uma vaga para desafios novos
 
-👨‍💻Estou subindo meu  para o git de pouco em pouco 
+👨‍💻Estou subindo meus projetos para o git de pouco em pouco 
 
 💬Pergunte-me sobre JavaScript, HTML, CSS,
 
