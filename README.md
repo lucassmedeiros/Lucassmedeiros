@@ -11,5 +11,12 @@
 
 React css3 html5 javascript C# nodejs MongoDB
 
+<a href="https://github.com/daanielcruz/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=daanielcruz&show_icons=true" />
+</a>
+<a href="https://github.com/daanielcruz/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanielcruz" />
+</a>
+
 
 
